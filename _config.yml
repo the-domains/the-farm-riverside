@@ -1,0 +1,14 @@
+layout_spectrum: 0.9623656
+typography_spectrum: 0.3548387
+color:
+  saturation: 0.4731183
+  lightness: 0
+  brandStrength: 0.9597948
+  brandColors:
+    - '#D6DBD7'
+    - '#1E5540'
+    - '#873422'
+    - '#A8ABA0'
+    - '#688332'
+  rhythmicContrast: 0.6057348
+name: 'The Farm Riverside '
